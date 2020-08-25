@@ -7,3 +7,4 @@ for num in range(0,101):
 
 print(numbers)
 print(list)
+print('zmiany drugiego programisty')
